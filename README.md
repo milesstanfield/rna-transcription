@@ -1,3 +1,5 @@
+http://exercism.io/exercises/ruby/rna-transcription/readme
+
 # Rna Transcription
 
 Write a program that, given a DNA strand, returns its RNA complement (per RNA transcription).
